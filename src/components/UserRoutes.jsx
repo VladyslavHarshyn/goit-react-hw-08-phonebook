@@ -3,10 +3,10 @@ import { Route, Routes } from 'react-router-dom';
 import PrivateRoute from './PrivateRoute/PrivateRoute';
 import PublicRoute from './PublicRoute/PublicRoute';
 
-const HomePage = lazy(() => import('pages/HomePage/HomePage'));
-const ContactsPage = lazy(() => import('pages/ContactsPage/ContactsPage'));
-const LoginPage = lazy(() => import('pages/LoginPage/LoginPage'));
-const RegisterPage = lazy(() => import('pages/RegisterPage/RegisterPage'));
+const HomePage = lazy(() => import('../Pages/HomePage/HomePage'));
+const ContactsPage = lazy(() => import('../Pages/ContactsPage/ContactsPage'));
+const LoginPage = lazy(() => import('../Pages/LoginPage/LoginPage'));
+const RegisterPage = lazy(() => import('../Pages/RegisterPage/RegisterPage'));
 // const NotFoundPage = lazy(() => import('pages/NotFoundPage/NotFoundPage'));
 
 const UserRoutes = () => {
