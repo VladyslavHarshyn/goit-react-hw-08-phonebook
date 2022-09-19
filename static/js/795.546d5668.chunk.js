@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[795],{1795:function(e,o,t){t.r(o);var h=t(184);o.default=function(){return(0,h.jsx)("div",{children:(0,h.jsx)("h2",{children:'This is a demo version of how the "add-contacts" website should look like. Later here will be something usefull, but for now take a look at pepe the frog. You must say that there is no, and you\'ll be right. Imagine!'})})}}}]);
+//# sourceMappingURL=795.546d5668.chunk.js.map
